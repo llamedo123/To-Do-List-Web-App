@@ -1,0 +1,29 @@
+Project Title: Simple To-Do List Web App
+
+Project Description:
+You are tasked with creating a simple to-do list web application where users can add, edit, and delete tasks. The web app should have the following features:
+
+1.) Task Management:
+
+- Users should be able to add new tasks to their to-do list.
+- They should be able to mark tasks as completed or delete them.
+
+2.) User Interface:
+
+- The web app should have a clean and user-friendly interface.
+- It should display the list of tasks with options to add, edit, mark as completed, and delete tasks.
+- Use basic styling and layout techniques to make the app visually appealing.
+
+3.) Technical Requirements:
+
+- Use HTML, CSS, and JavaScript for front-end development.
+- Utilize localStorage or sessionStorage for storing tasks locally on the user's browser (no need for a back-end server or database).
+- Implement basic error handling for user input (e.g., empty task name).
+- Ensure the web app is responsive and works well on different screen sizes.
+- Optional Enhancements (Bonus Points):
+
+Add the ability to edit tasks inline without opening a separate form.
+Implement a feature to clear all completed tasks with a single click.
+Include sorting or filtering options for tasks (e.g., by due date or priority).
+Add basic animations or transitions to enhance the user experience.
+Feel free to adjust or expand the requirements based on your preferences and skill level. Once you're ready, you can start working on the project! If you have any questions or need further guidance, feel free to ask. Good luck!
