@@ -27,6 +27,19 @@
                 this.value = ""
             }
         })
+
+        let addItem = (input) => 
+        {
+            let listItem = document.createElement("li");
+            listItem.innerHTML = `${input}<i><i>`;
+
+                listItem.addEventListener("click", function()
+                {
+                    this.classList.toggle('done');
+                })
+
+                list.appendChild(listItem);
+        }
     </script>
 </body>
 </html>
